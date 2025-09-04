@@ -69,4 +69,12 @@ h1 {
         min-width: unset;
         max-width: unset;
     }
+
+    .left {
+        margin-left: 0;
+    }
+
+    .right {
+        margin-right: 0;
+    }
 }
