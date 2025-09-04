@@ -56,3 +56,17 @@ h1 {
     color: #444;
     min-height: 40px;
 }
+
+@media (max-width: 600px) {
+    .button-container {
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .side-btn {
+        width: 80vw;
+        min-width: unset;
+        max-width: unset;
+    }
+}
