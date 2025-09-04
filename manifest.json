@@ -1,0 +1,17 @@
+{
+  "lang": "de-de",
+  "name": "RightLeftAssistant",
+  "short_name": "RightLeft",
+  "description": "assistant for finding right/left",
+  "orientation": "portrait",
+  "start_url": "https://leanderkafemann.github.io/RightLeftAssistant/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./images/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
+  
