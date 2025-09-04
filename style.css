@@ -24,7 +24,6 @@ h1 {
     border: none;
     border-radius: 12px;
     cursor: pointer;
-    transition: background 0.2s, color 0.2s;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     transition-duration: 0.7s;
     flex: 1 1 0;
